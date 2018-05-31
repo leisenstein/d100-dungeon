@@ -306,6 +306,7 @@ will still have its attack roll.
 At the start of each combat round roll for the monsters reaction.
 
 | D10 Roll | Monsters Reaction |
+| --- | --- |
 | 10 | Monster will Escape | 
 | 9 | Monster damaged last Round it will Escape | 
 | 8 | Monster has less than Half HP it will Escape 3 Monster will Attack as normal | 

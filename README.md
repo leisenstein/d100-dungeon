@@ -16,24 +16,48 @@
    * HIT LOCATION
    * OFFSET DAMAGE TO A SHIELD
    * DEFENCE BONUS
-- MONSTER CHARACTERISTICS
-- MONSTER ABILITIES
+   * MONSTER CHARACTERISTICS
+   * MONSTER ABILITIES
 - INSTEAD OF ATTACKING
-- CHANGE WEAPON
-- CAST A SPELL
-- USE A BELT ITEM
-- ESCAPING
+   * CHANGE WEAPON
+   * CAST A SPELL
+   * USE A BELT ITEM
+   * ESCAPING
 - CHOOSING QUESTS
 - COMPLETING AND FAILING QUESTS
 - TIME TRACK
 - BEFORE YOUR NEXT QUEST
 - TURNS
 - NOTES ON MAPPING
-- TABLES A-W 18-
-- HANDY SHEETS 46-
-- CHARACTER SHEET 48-
+- TABLE
+   * Armour
+   * Boosts
+   * Curses
+   * Doors
+   * Encounters
+   * Find
+   * Geography
+   * Items
+   * J - Investments
+   * Legends
+   * Maps
+   * Parts
+   * Quests
+   * Required
+   * Spells
+   * Treasure A
+   * Treasure B
+   * Treasure C
+   * Weapons
+   
+   
+- HANDY SHEETS 
+   * Monster Reaction
+   * Hit Location
+   
+- CHARACTER SHEET
 - COMBAT TRACK SHEET
-- MAPPING SHEETS 51-
+- MAPPING SHEETS 
 
 
 ```

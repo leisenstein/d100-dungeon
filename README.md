@@ -1,7 +1,6 @@
 
 
 # D100 Dungeon
-## A pencil & paper game by Martin Knight
 
 * [CREATING A CHARACTER](#creating-a-character) 
    * ABILITIES

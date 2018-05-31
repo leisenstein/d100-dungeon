@@ -321,14 +321,14 @@ At the start of each combat round roll for the monsters reaction.
 
 ## HIT LOCATION
 
-```
-Location Roll Location Hit Damage Mod Location Roll Location Hit Damage Mod
-1 Head +3 6 Main Weapon -
-2 Back +2 7 Off Weapon -
-3 Torso +1 8 Waist Belt Check
-4 Arms - 9 Legs -
-5 Hands - 10 Feet -
-```
+|Location Roll|Location Hit|Damage Mod||Location Roll|Location Hit|Damage Mod|
+|---|---|---|----|---|---|---|
+|1|Head|+3||6|Main Weapon||
+|2|Back |+2||7|Off Weapon ||
+|3|Torso|+1||8|Waist Belt Check||
+|4|Arms|||9|Legs|-1|
+|5|Hands|||10|Feet|-1|
+
 ## OFFSET DAMAGE TO A SHIELD
 
 When a shield is equipped a character can use it to off set a number of damage equal to its Shield

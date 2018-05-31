@@ -2,7 +2,7 @@
 
 ## INDEX
 
-- CREATING A CHARACTER
+- [CREATING A CHARACTER](#creating-a-character)
 - ABILITIES
 - SKILLS
 - SKILL TESTS

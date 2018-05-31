@@ -305,14 +305,19 @@ will still have its attack roll.
 
 At the start of each combat round roll for the monsters reaction.
 
-```
-D10 Roll Monsters Reaction D10 Roll Monsters Reaction
-10 Monster will Escape 5 Monster will Attack as normal
-9 Monster damaged last Round it will Escape 4 Monster will Attack as normal
-8 Monster has less than Half HP it will Escape 3 Monster will Attack as normal
-7 Monster will Attack as normal 2 Monster has less than ½ its HP gains AV+
-6 Monster will Attack as normal 1 Monster has less than ½ its HP gains AV+
-```
+| D10 Roll | Monsters Reaction |
+| 10 | Monster will Escape | 
+| 9 | Monster damaged last Round it will Escape | 
+| 8 | Monster has less than Half HP it will Escape 3 Monster will Attack as normal | 
+| 7 | Monster will Attack as normal | 
+| 6 | Monster will Attack as normal | 
+| 5 | Monster will Attack as normal | 
+| 4 | Monster will Attack as normal | 
+| 3 | Monster will Attack as normal | 
+| 2 | Monster has less than ½ its HP gains AV+ | 
+| 1 | Monster has less than ½ its HP gains AV+ | 
+
+
 ## HIT LOCATION
 
 ```

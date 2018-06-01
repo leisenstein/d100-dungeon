@@ -725,48 +725,48 @@ mapped to continue with the quest.
 **A – ARMOUR** COIN-IMG
 
 |D100|Slot|Item|Defence|Condition|Value|Rep. Cost|
-|---|---|---|---|---|---|---|
-|1-4|Legs|**LEATHER TASSET**|0 DEF||23 gp|5 gp|
-|5-8|Torso| **LEATHER CUIRASS** |0 DEF|  |34 gp |7 gp|
-|9-12  |Hands| **LEATHER GAUNTLETS** |0 DEF | |27 gp |6 gp|
-|13-16|Arms| **LEATHER ARM GUARDS** |0 DEF | |21 gp |5 gp|
-|17|Off Weap.| **BUCKLER SHIELD**| 1 DEF | |67 gp |14 gp|
-|18-21|Waist| **LEATHER GIRDLE** |0 DEF | |25 gp |5 gp|
-|22-25|Head |**LEATHER CAP** |0 DEF | |28 gp |6 gp|
-|26-29|Feet |**LEATHER BOOTS**| 0 DEF  22 gp 5 gp|
-|30-32|Torso| **STUDDED LEATHER BRIGANDINE** |1 DEF  |43 gp |9 gp|
-|33-35|Head |**STUDDED LEATHER HELMET** |1 DEF | |36 gp |8 gp|
-|36-38|Hands| **STUDDED LEATHER GLOVES**| 1 DEF | |32 gp |7 gp|
-|39-41|Feet |**STUDDED LEATHER SOLLERETS** |1 DEF | |31 gp |7 gp|
-|42-44|Legs |**STUDDED LEATHER CHAUSSES** |1 DEF | |38 gp |8 gp|
-|45-47|Arms |**STUDDED LEATHER BRACERS** |1 DEF | |37 gp |8 gp|
-|48-50|Waist| **STUDDED LEATHER BELT** |1 DEF | |34 gp |7 gp|
-|51|Off Weap.| **TARGE SHIELD** |2 DEF | |75 gp |15 gp|
-|52-54|Feet |**MAIL SABATONS** |2 DEF | |43 gp |9 gp|
-|55-57|Hands| **MAIL HANDWRAPS** |2 DEF | |47 gp |10 gp|
-|58-60|Torso| **MAIL SHIRT** |2 DEF | |58 gp |12 gp|
-|61-63|Head |**MAIL COIF** |2 DEF | |44 gp |9 gp|
-|64-66|Waist| **PADDED MAIL BELT** |2 DEF | |41 gp |9 gp|
-|67-69|Legs |**MAIL CUISSE** |2 DEF | |43 gp |9 gp|
-|70-72|Off Weap.| **HEATER SHIELD** |3 DEF | |83 gp |17 gp|
-|73-75|Arms |**MAIL SLEEVES** |2 DEF | |49 gp |10 gp|
-|76-77|Torso| **SCALE MAIL HAUBERK** |3 DEF | |60 gp |12 gp|
-|78-79|Waist| **SCALE MAIL FAULD** |3 DEF | |55 gp |11 gp|
-|80-81|Feet |**SCALE MAIL BOOT** |3 DEF | |51 gp |11 gp|
-|82-83|Legs |**SCALE MAIL POLEYN** |3 DEF | |58 gp |12 gp|
-|84-85|Arms |**SCALE MAIL VAMBRACE**| 3 DEF | |56 gp |12 gp|
-|86-87|Off Weap.| **KITE SHIELD** |4 DEF | |97 gp |20 gp|
-|88-89|Hands| **SCALE MAIL GLOVES**| 3 DEF | |54 gp |11 gp|
-|90-91|Head |**SCALE MAIL ARMET** |3 DEF | |52 gp |11 gp|
-|92|Hands| **PLATE MAIL MANIFERS** |4 DEF | |68 gp |14 gp|
-|93|Arms |**PLATE MAIL BRACERS** |4 DEF | |66 gp |14 gp|
-|94|Torso| **PLATE MAIL BREASTPLATE** |4 DEF | |79 gp |16 gp|
-|95|Legs |**PLATE MAIL GREAVES** |4 DEF | |63 gp |13 gp|
-|96|Off Weap.| **PAVISE SHIELD**| 5 DEF | |104 gp |21 gp|
-|97|Feet |**PLATE MAIL SABATONS** |4 DEF | |63 gp |13 gp|
-|98|Head |**PLATE MAIL GREAT HELM** |4 DEF | |67 gp |14 gp|
-|99|Waist| **PLATE MAIL GIRDLE** |4 DEF | |66 gp |14 gp|
-|100|Back| **LEGENDARY CLOAK**|Roll on **Table L** for its Legend.|0 DEF || +500| +100|
+|------|---|---|---|---|---|---|
+|1-4|Legs|**LEATHER TASSET**|0 DEF|:black_circle::black_circle:|23 gp|5 gp|
+|5-8|Torso| **LEATHER CUIRASS** |0 DEF|:black_circle:|34 gp |7 gp|
+|9-12|Hands| **LEATHER GAUNTLETS** |0 DEF |:black_circle:|27 gp |6 gp|
+|13-16|Arms| **LEATHER ARM GUARDS** |0 DEF |:black_circle:|21 gp |5 gp|
+|17|Off Weap.| **BUCKLER SHIELD**| 1 DEF |:black_circle:|67 gp |14 gp|
+|18-21|Waist| **LEATHER GIRDLE** |0 DEF |:black_circle::black_circle::black_circle:|25 gp |5 gp|
+|22-25|Head |**LEATHER CAP** |0 DEF |:black_circle::black_circle:|28 gp |6 gp|
+|26-29|Feet |**LEATHER BOOTS**|0 DEF|:black_circle::black_circle::black_circle:|22 gp|5 gp|
+|30-32|Torso| **STUDDED LEATHER BRIGANDINE** |1 DEF|:black_circle:|43 gp |9 gp|
+|33-35|Head |**STUDDED LEATHER HELMET** |1 DEF |:black_circle::black_circle:|36 gp |8 gp|
+|36-38|Hands| **STUDDED LEATHER GLOVES**| 1 DEF |:black_circle:|32 gp |7 gp|
+|39-41|Feet |**STUDDED LEATHER SOLLERETS** |1 DEF |:black_circle::black_circle:|31 gp |7 gp|
+|42-44|Legs |**STUDDED LEATHER CHAUSSES** |1 DEF |:black_circle::black_circle::black_circle:|38 gp |8 gp|
+|45-47|Arms |**STUDDED LEATHER BRACERS** |1 DEF |:black_circle::black_circle:|37 gp |8 gp|
+|48-50|Waist| **STUDDED LEATHER BELT** |1 DEF |:black_circle:|34 gp |7 gp|
+|51|Off Weap.| **TARGE SHIELD** |2 DEF |:black_circle::black_circle::black_circle:|75 gp |15 gp|
+|52-54|Feet |**MAIL SABATONS** |2 DEF |:black_circle:|43 gp |9 gp|
+|55-57|Hands| **MAIL HANDWRAPS** |2 DEF |:black_circle::black_circle:|47 gp |10 gp|
+|58-60|Torso| **MAIL SHIRT** |2 DEF |:black_circle::black_circle:|58 gp |12 gp|
+|61-63|Head |**MAIL COIF** |2 DEF |:black_circle:|44 gp |9 gp|
+|64-66|Waist| **PADDED MAIL BELT** |2 DEF |:black_circle::black_circle::black_circle:|41 gp |9 gp|
+|67-69|Legs |**MAIL CUISSE** |2 DEF |:black_circle::black_circle:|43 gp |9 gp|
+|70-72|Off Weap.| **HEATER SHIELD** |3 DEF |:black_circle::black_circle::black_circle:|83 gp |17 gp|
+|73-75|Arms |**MAIL SLEEVES** |2 DEF |:black_circle:|49 gp |10 gp|
+|76-77|Torso| **SCALE MAIL HAUBERK** |3 DEF |:black_circle::black_circle:|60 gp |12 gp|
+|78-79|Waist| **SCALE MAIL FAULD** |3 DEF |:black_circle::black_circle::black_circle:|55 gp |11 gp|
+|80-81|Feet |**SCALE MAIL BOOT** |3 DEF |:black_circle::black_circle::black_circle:|51 gp |11 gp|
+|82-83|Legs |**SCALE MAIL POLEYN** |3 DEF |:black_circle::black_circle:|58 gp |12 gp|
+|84-85|Arms |**SCALE MAIL VAMBRACE**| 3 DEF |:black_circle::black_circle:|56 gp |12 gp|
+|86-87|Off Weap.| **KITE SHIELD** |4 DEF |:black_circle:|97 gp |20 gp|
+|88-89|Hands| **SCALE MAIL GLOVES**| 3 DEF |:black_circle:|54 gp |11 gp|
+|90-91|Head |**SCALE MAIL ARMET** |3 DEF |:black_circle:|52 gp |11 gp|
+|92|Hands| **PLATE MAIL MANIFERS** |4 DEF |:black_circle::black_circle:|68 gp |14 gp|
+|93|Arms |**PLATE MAIL BRACERS** |4 DEF |:black_circle::black_circle::black_circle:|66 gp |14 gp|
+|94|Torso| **PLATE MAIL BREASTPLATE** |4 DEF |:black_circle::black_circle::black_circle:|79 gp |16 gp|
+|95|Legs |**PLATE MAIL GREAVES** |4 DEF |:black_circle:|63 gp |13 gp|
+|96|Off Weap.| **PAVISE SHIELD**| 5 DEF |:black_circle:|104 gp |21 gp|
+|97|Feet |**PLATE MAIL SABATONS** |4 DEF |:black_circle:|63 gp |13 gp|
+|98|Head |**PLATE MAIL GREAT HELM** |4 DEF |:black_circle::black_circle:|67 gp |14 gp|
+|99|Waist| **PLATE MAIL GIRDLE** |4 DEF |:black_circle::black_circle:|66 gp |14 gp|
+|100|Back| **LEGENDARY CLOAK**|Roll on **Table L** for its Legend.|0 DEF |:black_circle::black_circle::black_circle:| +500| +100|
 
 
 **B – BOOSTS**
